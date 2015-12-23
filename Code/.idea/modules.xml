@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Code.iml" filepath="$PROJECT_DIR$/Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/spannable_demo/spannable_demo.iml" filepath="$PROJECT_DIR$/spannable_demo/spannable_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/steptimeview/steptimeview.iml" filepath="$PROJECT_DIR$/steptimeview/steptimeview.iml" />
     </modules>
   </component>
 </project>
