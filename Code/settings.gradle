@@ -1,1 +1,1 @@
-include ':app', ':spannable_demo', ':steptimeview'
+include ':app', ':spannable_demo', ':steptimeview', ':numberpickertest', ':transitiondemo'
